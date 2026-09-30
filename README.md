@@ -1,7 +1,7 @@
  
 <h1 align="center">Hi, I'm Prashant Dwivedi 👋</h1>
 
-<h3 align="center">Data Engineer | Data Architecture | Analytics | Machine Learning</h3>
+<h3 align="center">Data Engineer | Data Architecture | Artificial Intelligence  | Machine Learning</h3>
 
 <p align="center">
   I design reliable data pipelines and turn raw data into analytics and ML solutions the business can act on.
